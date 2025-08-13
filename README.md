@@ -1,4 +1,4 @@
-# DataHackSummit2025
+# DataHack Summit 2025
 
 Links to the github repositories I'm presenting at DataHack Summit 2025
 
