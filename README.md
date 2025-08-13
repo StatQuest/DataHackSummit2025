@@ -1,6 +1,6 @@
 # DataHack Summit 2025
 
-Links to the github repositories I'm presenting at DataHack Summit 2025
+Links to the github repositories I (Josh Starmer) am presenting at DataHack Summit 2025
 
 | Topic | Google Colab 
 | :------ | :----------- 
