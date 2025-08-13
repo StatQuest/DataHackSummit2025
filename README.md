@@ -1,1 +1,10 @@
 # DataHackSummit2025
+
+Links to the github repositories I'm presenting at DataHack Summit 2025
+
+| Topic | Google Colab 
+| :------ | :----------- 
+| Decoder-Only Transformers from Scratch!!! | <a target="_blank" href="https://colab.research.google.com/github/StatQuest/decoder_transformer_from_scratch/blob/main/decoder_transformers_with_pytorch_and_lightning_v2.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| Basic Reinforcement Learning!!! | |
+| Adding Reinforcement Learning to a Neural Network!!! | |
+| Training an LLM from Scratch using Pre-Training and Reinforcement Learning with Human Feedback!!! | |
